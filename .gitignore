@@ -1,0 +1,11 @@
+# .gitignore
+# Node (for frontend)
+node_modules/
+build/
+
+# Laravel (for backend)
+vendor/
+.env
+
+# System files
+.DS_Store
